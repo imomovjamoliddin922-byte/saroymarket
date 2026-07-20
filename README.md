@@ -1,2 +1,1 @@
-# saroymarket
-SAROYmarket - Oziq-ovqat mahsulotlarini tez va ishonchli yetkazib berish xizmati.
+<img src="logo.png" alt="SAROYmarket" width="180">
